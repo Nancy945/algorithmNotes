@@ -3,7 +3,7 @@
 
 # 目录
 Templates:存放标准的模板代码，是知识库
-- sort:排序相关
+- sort: 排序相关
   - 排序稳定性：
     - 稳定排序：冒泡排序，插入排序，归并排序，基数排序。
       - 冒泡：因为相邻的相等则不交换，所以稳定。
@@ -19,3 +19,7 @@ Templates:存放标准的模板代码，是知识库
   - Shell:希尔排序。平均n^1.3,最坏n^2。复杂度证明复杂。
   - Merge:归并排序。最坏nlog(n)
   - Quick:快速排序；最坏n^2,平均nlog(n)
+- linear: 线性表相关
+  - SequenceList: 顺序表
+  - LinkList： 单项链表
+  - TowWayLinkList: 双向链表
