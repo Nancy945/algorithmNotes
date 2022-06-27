@@ -23,3 +23,6 @@ Templates:存放标准的模板代码，是知识库
   - SequenceList: 顺序表
   - LinkList： 单项链表
   - TowWayLinkList: 双向链表
+Questions:题目
+  - linear:线性表相关
+  - stack:栈相关

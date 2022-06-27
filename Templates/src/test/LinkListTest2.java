@@ -1,4 +1,4 @@
-import com.dongnaoedu.algorithm.linear.LinkList;
+import linear.LinkList;
 
 public class LinkListTest2 {
 
