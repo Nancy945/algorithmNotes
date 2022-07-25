@@ -120,7 +120,8 @@ public class No_215_LeetCode {
     public static void main(String[] args) {
         int k = 1;
         int[] array = {5, 1, 3, 2, 4};
-        int result = new TopKPart().sort(array, k);
+//        int result = new TopKPart().sort(array, k);
+        int result = new TopKHeap().findKthLargest(array, k);
         System.out.println("result:" + result);
     }
 }
